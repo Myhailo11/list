@@ -1,0 +1,6 @@
+.list > li {
+    font-size: 24px;
+}
+.sublist > li {
+    font-size: 12px;  
+}
